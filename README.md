@@ -4,4 +4,4 @@ NATIONAL UNDERGRADUATE BIG DATA CHALLENGE 2021 Infodemiology for the Future of D
 ##Intro The Big Data Challenge (BDC) for undergraduate students is a unique inquiry-driven and experiential learning program that invites students from across the country to strengthen their problem-solving and critical thinking skills while gaining familiarity with the fundamentals of data science. 
 ##By allowing students to undertake independent research projects that tackle real-world public health and bioinformatics problems, the BDC fosters scientific inquiry and prompts new and innovative ideas.
 
-# Team member: Heeju Choi @hjrena9807 Surbhi Negi @surbhin Caiyi Yang @ Chloe Huang @minzhih@sfu.ca
+## Team member: Heeju Choi @hca126@sfu.ca Surbhi Negi @snegi@sfu.ca Caiyi Yang @chelsea_yang@sfu.ca Chloe Huang @minzhih@sfu.ca
